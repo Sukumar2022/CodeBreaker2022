@@ -1,0 +1,189 @@
+@media (max-width:700px) {
+    .nav-item ul li{
+        display: none;
+    }
+    .res-menu-bar{
+        display: block;
+    }
+    .res-menu{
+        display: block;
+    }
+    .banner h1{
+        font-size: 50px;
+    }
+    .banner p{
+        font-size: 17px;
+    }
+    .quts .qts-card{
+        background-color: #686de0;
+        color: #fff;
+        height: 360px;
+    }
+    .about img{
+        height: 360px;
+        width: 600px;
+    }
+}
+
+@media (max-width:590px) {
+    .banner h1{
+        font-size: 35px;
+    }
+    .banner p{
+        font-size: 15px;
+    }
+    .banner button{
+        padding: 15px 30px;
+        font-size: 14px;
+    }
+    .quts .qts-card{
+        background-color: #686de0;
+        color: #fff;
+        height: 340px;
+    }
+    .about img{
+        height: 330px;
+        width: 580px;
+    }
+}
+
+@media (max-width:550px) {
+
+    .res-menu ul li a{
+        font-size: 22px;
+    }
+    .res-menu .cls{
+        font-size: 40;
+        top: 8px;
+        right: 36px;
+    }
+    .banner h1{
+        font-size: 35px;
+    }
+    .banner p{
+        font-size: 20px;
+        width: 70%;
+    }
+    .about h2{
+        margin: 25px;
+        font-size: 30px;
+    }
+    .about hr{
+        width: 280px;
+        margin: 10px;
+    }
+    .about p{
+        width: 95%;
+    }
+    .about img{
+        height: 300px;
+        width: 360px;
+    }
+
+}
+
+@media (max-width:510px) {
+
+    .res-menu ul li a{
+        font-size: 18px;
+    }
+    .res-menu .cls{
+        font-size: 35px;
+        top: 0px;
+        right: 60px;
+    }
+    .banner h1{
+        font-size: 35px;
+    }
+    .banner p{
+        font-size: 20px;
+        width: 75%;
+    }
+    .quts .qts-card{
+        background-color: #686de0;
+        color: #fff;
+        height: 300px;
+        width: 340px;
+    }
+   
+    .about h2{
+        margin: 22px;
+        font-size: 28px;
+    }
+    .about hr{
+        width: 280px;
+        margin: 8px;
+    }
+    .about p{
+        text-align: center;
+        width: 80%;
+    }
+    .about img{
+        display: none;
+    }
+    .team .team-card{
+        width: 320px;
+        height: 240px;
+    }
+
+}
+
+@media (max-width:415px) {
+  
+    .res-menu {
+        width: 90%;
+    }
+    .res-menu ul li a{
+        font-size: 18px;
+    }
+    .res-menu .cls{
+        font-size: 35px;
+        top: 0px;
+        right: 108px;
+    }
+    .banner h1{
+        font-size: 35px;
+    }
+    .banner p{
+        font-size: 20px;
+        width: 75%;
+    }
+    .quts .qts-card{
+        background-color: #686de0;
+        color: #fff;
+        height: 300px;
+        width: 340px;
+    }
+   
+    .about h2{
+        margin: 22px;
+        font-size: 28px;
+    }
+    .about hr{
+        width: 280px;
+        margin: 8px;
+    }
+    .about p{
+        text-align: center;
+        width: 98%;
+    }
+    .about img{
+        display: none;
+    }
+    .team .team-card{
+        width: 320px;
+        height: 240px;
+    }
+    .team .heading{
+        transform: rotate(0deg);
+        left: 0;
+    }
+    footer{
+        max-height: auto;
+    }
+    footer p{
+        padding: 2px;
+    }
+
+}
+
